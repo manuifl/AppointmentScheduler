@@ -33,4 +33,4 @@ INSTRUCTIONS:
 4. Open Command Line (for Windows) or Terminal (for Mac OS) and change directory to the path of “QAM1/dist”
 5. Copy/paste the following command substituting “path/to/javafx/lib” with the path of  javafx-sdk-11.0.?/lib
 java --module-path [path/to/javafx/lib] --add-modules=javafx.controls --add-modules=javafx.base --add-modules=javafx.graphics --add-modules=javafx.media --add-modules=javafx.swing --add-modules=javafx.web --add-modules=javafx.fxml -jar QAM1.jar
-6. You will need a MySQL server in which to import the database.sql file and edit the 'ipAddress', 'dbName', 'userName' and 'password String variables in \src\DAO\DBConnection.java to match your database credentials
+6. You will need a MySQL server in which to import the database.sql file and edit the 'ipAddress', 'dbName', 'userName' and 'password' String variables in \src\DAO\DBConnection.java to match your database credentials
