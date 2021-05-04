@@ -14,7 +14,6 @@ Notification of any time conflicts with existing appointments assigned to a spec
 Customers can be added, edited or deleted. Deleting a customer also deletes all of its assigned appointments.
 Generates reports for: total number of customer appointments by type and month, schedule for each contact in your list and total number of customer appointments by location.
 
-**Lambda Expressions in ManageAppointmentController, DBAppointments and AlertBoxes classes
 
 AUTHOR:
 Manuel Fuentes
@@ -25,6 +24,8 @@ NetBeans 11.3
 Java SE 11.0.10
 JavaFX-SDK-11.0.2
 MySQL-Connector-Java-8.0.22
+
+*See Video Preview at https://www.youtube.com/watch?v=VhkCT4FABBY
 
 INSTRUCTIONS:
 1. Download and install JDK 11 (https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
