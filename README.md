@@ -17,7 +17,7 @@ Generates reports for: total number of customer appointments by type and month, 
 
 AUTHOR:
 Manuel Fuentes
-manuel.fuentes301@gmail.com
+
 
 TOOLS:
 NetBeans 11.3
